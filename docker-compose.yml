@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  brutality-cards:
+    build: .
+    container_name: brutality-cards-flask
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_APP=app.py
+      - FLASK_ENV=production
+    volumes:
+      # Mount static files for easier development (optional)
+      - ./static:/app/static:ro
+      - ./templates:/app/templates:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+

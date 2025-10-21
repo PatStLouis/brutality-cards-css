@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <title>{% block title %}Brutality Cards{% endblock %}</title>
+    <meta name="description" content="Holographic card effects for Brutality Podcast collectible cards" />
+    
+    <link rel="icon" href="{{ url_for('static', filename='favicon.png') }}" />
+    
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,700;1,300;1,700&family=Roboto:ital,wght@0,300;0,700;1,300;1,700&display=swap"> 
+    
+    <!-- styles -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/global.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/base.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/basic.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/reverse-holo.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/regular-holo.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/cosmos-holo.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/amazing-rare.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/radiant-holo.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/v-regular.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/v-full-art.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/v-max.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/v-star.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/trainer-full-art.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/rainbow-holo.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/rainbow-alt.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/secret-rare.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/trainer-gallery-holo.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/trainer-gallery-v-regular.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/trainer-gallery-v-max.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/trainer-gallery-secret-rare.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/shiny-rare.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/shiny-v.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/shiny-vmax.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/cards/swsh-pikachu.css') }}" />
+    
+    <!-- Custom styles for grid layout and spacing -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/custom.css') }}" />
+    
+    <!-- Card image CSS rendering -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/card-image.css') }}" />
+    
+    <!-- Brutal Deathcore Theme -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/brutal-theme.css') }}" />
+    
+    <!-- Brutal Layout -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/brutal-layout.css') }}" />
+    
+    {% block extra_css %}{% endblock %}
+</head>
+<body>
+    {% block content %}{% endblock %}
+    
+    {% block footer %}{% endblock %}
+    
+    {% block scripts %}{% endblock %}
+</body>
+</html>
+

@@ -1,0 +1,2117 @@
+[
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-1",
+      "cardName": "EXAMPLE (Common)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "1",
+      "cardRarity": "Common",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-2",
+      "cardName": "EXAMPLE2 (Common)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "2",
+      "cardRarity": "Common",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-3",
+      "cardName": "EXAMPLE3 (Common)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "3",
+      "cardRarity": "Common",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-4",
+      "cardName": "EXAMPLE (Uncommon)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "4",
+      "cardRarity": "Uncommon",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-5",
+      "cardName": "EXAMPLE2 (Uncommon)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "5",
+      "cardRarity": "Uncommon",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-6",
+      "cardName": "EXAMPLE3 (Uncommon)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "6",
+      "cardRarity": "Uncommon",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-7",
+      "cardName": "EXAMPLE (Reverse Holo)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Water"
+      ],
+      "cardNumber": "7",
+      "cardRarity": "Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-8",
+      "cardName": "EXAMPLE2 (Reverse Holo)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Water"
+      ],
+      "cardNumber": "8",
+      "cardRarity": "Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-9",
+      "cardName": "EXAMPLE3 (Reverse Holo)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Water"
+      ],
+      "cardNumber": "9",
+      "cardRarity": "Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-10",
+      "cardName": "EXAMPLE (Holo Rare)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "10",
+      "cardRarity": "Rare Holo",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-11",
+      "cardName": "EXAMPLE2 (Holo Rare)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "11",
+      "cardRarity": "Rare Holo",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-12",
+      "cardName": "EXAMPLE3 (Holo Rare)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "12",
+      "cardRarity": "Rare Holo",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-13",
+      "cardName": "EXAMPLE (Cosmos Holo)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Psychic"
+      ],
+      "cardNumber": "13",
+      "cardRarity": "Rare Holo",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-14",
+      "cardName": "EXAMPLE2 (Cosmos Holo)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Psychic"
+      ],
+      "cardNumber": "14",
+      "cardRarity": "Rare Holo",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-15",
+      "cardName": "EXAMPLE3 (Cosmos Holo)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Psychic"
+      ],
+      "cardNumber": "15",
+      "cardRarity": "Rare Holo",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-16",
+      "cardName": "EXAMPLE (Amazing Rare)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "16",
+      "cardRarity": "Amazing Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-17",
+      "cardName": "EXAMPLE2 (Amazing Rare)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "17",
+      "cardRarity": "Amazing Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-18",
+      "cardName": "EXAMPLE3 (Amazing Rare)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "18",
+      "cardRarity": "Amazing Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-19",
+      "cardName": "EXAMPLE (Radiant)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "19",
+      "cardRarity": "Radiant Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-20",
+      "cardName": "EXAMPLE2 (Radiant)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "20",
+      "cardRarity": "Radiant Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-21",
+      "cardName": "EXAMPLE3 (Radiant)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "21",
+      "cardRarity": "Radiant Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-22",
+      "cardName": "EXAMPLE (Trainer Gallery Holo)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "22",
+      "cardRarity": "Rare Holo",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-23",
+      "cardName": "EXAMPLE2 (Trainer Gallery Holo)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "23",
+      "cardRarity": "Rare Holo",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-24",
+      "cardName": "EXAMPLE3 (Trainer Gallery Holo)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "24",
+      "cardRarity": "Rare Holo",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-25",
+      "cardName": "EXAMPLE (V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic",
+        "V"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "25",
+      "cardRarity": "Rare Holo V",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-26",
+      "cardName": "EXAMPLE2 (V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic",
+        "V"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "26",
+      "cardRarity": "Rare Holo V",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-27",
+      "cardName": "EXAMPLE3 (V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic",
+        "V"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "27",
+      "cardRarity": "Rare Holo V",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-28",
+      "cardName": "EXAMPLE (V Full Art)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic",
+        "V"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "28",
+      "cardRarity": "Rare Ultra",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-29",
+      "cardName": "EXAMPLE2 (V Full Art)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic",
+        "V"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "29",
+      "cardRarity": "Rare Ultra",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-30",
+      "cardName": "EXAMPLE3 (V Full Art)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic",
+        "V"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "30",
+      "cardRarity": "Rare Ultra",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-31",
+      "cardName": "EXAMPLE (V Alt Art)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic",
+        "V"
+      ],
+      "cardTypes": [
+        "Water"
+      ],
+      "cardNumber": "31",
+      "cardRarity": "Rare Ultra",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-32",
+      "cardName": "EXAMPLE2 (V Alt Art)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic",
+        "V"
+      ],
+      "cardTypes": [
+        "Water"
+      ],
+      "cardNumber": "32",
+      "cardRarity": "Rare Ultra",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-33",
+      "cardName": "EXAMPLE3 (V Alt Art)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic",
+        "V"
+      ],
+      "cardTypes": [
+        "Water"
+      ],
+      "cardNumber": "33",
+      "cardRarity": "Rare Ultra",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-34",
+      "cardName": "EXAMPLE (VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "34",
+      "cardRarity": "Rare Holo VMAX",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-35",
+      "cardName": "EXAMPLE2 (VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "35",
+      "cardRarity": "Rare Holo VMAX",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-36",
+      "cardName": "EXAMPLE3 (VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "36",
+      "cardRarity": "Rare Holo VMAX",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-37",
+      "cardName": "EXAMPLE (VMAX Alt/Rainbow)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "37",
+      "cardRarity": "Rare Rainbow",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-38",
+      "cardName": "EXAMPLE2 (VMAX Alt/Rainbow)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "38",
+      "cardRarity": "Rare Rainbow",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-39",
+      "cardName": "EXAMPLE3 (VMAX Alt/Rainbow)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "39",
+      "cardRarity": "Rare Rainbow",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-40",
+      "cardName": "EXAMPLE (VSTAR)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VSTAR"
+      ],
+      "cardTypes": [
+        "Psychic"
+      ],
+      "cardNumber": "40",
+      "cardRarity": "Rare Holo VSTAR",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-41",
+      "cardName": "EXAMPLE2 (VSTAR)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VSTAR"
+      ],
+      "cardTypes": [
+        "Psychic"
+      ],
+      "cardNumber": "41",
+      "cardRarity": "Rare Holo VSTAR",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-42",
+      "cardName": "EXAMPLE3 (VSTAR)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VSTAR"
+      ],
+      "cardTypes": [
+        "Psychic"
+      ],
+      "cardNumber": "42",
+      "cardRarity": "Rare Holo VSTAR",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-43",
+      "cardName": "EXAMPLE (Trainer Full Art)",
+      "cardSet": "brutality",
+      "cardSupertype": "Trainer",
+      "cardSubtypes": [
+        "Supporter"
+      ],
+      "cardTypes": [
+        "Colorless"
+      ],
+      "cardNumber": "43",
+      "cardRarity": "Rare Ultra",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-44",
+      "cardName": "EXAMPLE2 (Trainer Full Art)",
+      "cardSet": "brutality",
+      "cardSupertype": "Trainer",
+      "cardSubtypes": [
+        "Supporter"
+      ],
+      "cardTypes": [
+        "Colorless"
+      ],
+      "cardNumber": "44",
+      "cardRarity": "Rare Ultra",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-45",
+      "cardName": "EXAMPLE3 (Trainer Full Art)",
+      "cardSet": "brutality",
+      "cardSupertype": "Trainer",
+      "cardSubtypes": [
+        "Supporter"
+      ],
+      "cardTypes": [
+        "Colorless"
+      ],
+      "cardNumber": "45",
+      "cardRarity": "Rare Ultra",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-46",
+      "cardName": "EXAMPLE (Rainbow Rare VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "46",
+      "cardRarity": "Rare Rainbow",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-47",
+      "cardName": "EXAMPLE2 (Rainbow Rare VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "47",
+      "cardRarity": "Rare Rainbow",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-48",
+      "cardName": "EXAMPLE3 (Rainbow Rare VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "48",
+      "cardRarity": "Rare Rainbow",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-49",
+      "cardName": "EXAMPLE (Rainbow Rare VSTAR)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VSTAR"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "49",
+      "cardRarity": "Rare Rainbow",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-50",
+      "cardName": "EXAMPLE2 (Rainbow Rare VSTAR)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VSTAR"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "50",
+      "cardRarity": "Rare Rainbow",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-51",
+      "cardName": "EXAMPLE3 (Rainbow Rare VSTAR)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VSTAR"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "51",
+      "cardRarity": "Rare Rainbow",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-52",
+      "cardName": "EXAMPLE (Secret Rare Gold Basic)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Metal"
+      ],
+      "cardNumber": "52",
+      "cardRarity": "Rare Secret",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-53",
+      "cardName": "EXAMPLE2 (Secret Rare Gold Basic)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Metal"
+      ],
+      "cardNumber": "53",
+      "cardRarity": "Rare Secret",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-54",
+      "cardName": "EXAMPLE3 (Secret Rare Gold Basic)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Metal"
+      ],
+      "cardNumber": "54",
+      "cardRarity": "Rare Secret",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-55",
+      "cardName": "EXAMPLE (Secret Rare Gold V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "V"
+      ],
+      "cardTypes": [
+        "Metal"
+      ],
+      "cardNumber": "55",
+      "cardRarity": "Rare Secret",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-56",
+      "cardName": "EXAMPLE2 (Secret Rare Gold V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "V"
+      ],
+      "cardTypes": [
+        "Metal"
+      ],
+      "cardNumber": "56",
+      "cardRarity": "Rare Secret",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-57",
+      "cardName": "EXAMPLE3 (Secret Rare Gold V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "V"
+      ],
+      "cardTypes": [
+        "Metal"
+      ],
+      "cardNumber": "57",
+      "cardRarity": "Rare Secret",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-58",
+      "cardName": "EXAMPLE (Secret Rare Gold VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Metal"
+      ],
+      "cardNumber": "58",
+      "cardRarity": "Rare Secret",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-59",
+      "cardName": "EXAMPLE2 (Secret Rare Gold VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Metal"
+      ],
+      "cardNumber": "59",
+      "cardRarity": "Rare Secret",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-60",
+      "cardName": "EXAMPLE3 (Secret Rare Gold VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Metal"
+      ],
+      "cardNumber": "60",
+      "cardRarity": "Rare Secret",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-61",
+      "cardName": "EXAMPLE (Trainer Gallery V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "V"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "61",
+      "cardRarity": "Rare Holo V",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-62",
+      "cardName": "EXAMPLE2 (Trainer Gallery V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "V"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "62",
+      "cardRarity": "Rare Holo V",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-63",
+      "cardName": "EXAMPLE3 (Trainer Gallery V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "V"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "63",
+      "cardRarity": "Rare Holo V",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-64",
+      "cardName": "EXAMPLE (Trainer Gallery VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "64",
+      "cardRarity": "Rare Holo VMAX",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-65",
+      "cardName": "EXAMPLE2 (Trainer Gallery VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "65",
+      "cardRarity": "Rare Holo VMAX",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-66",
+      "cardName": "EXAMPLE3 (Trainer Gallery VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "66",
+      "cardRarity": "Rare Holo VMAX",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-67",
+      "cardName": "EXAMPLE (Shiny Vault Basic)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "67",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-68",
+      "cardName": "EXAMPLE2 (Shiny Vault Basic)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "68",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-69",
+      "cardName": "EXAMPLE3 (Shiny Vault Basic)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Basic"
+      ],
+      "cardTypes": [
+        "Lightning"
+      ],
+      "cardNumber": "69",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-70",
+      "cardName": "EXAMPLE (Shiny Vault Stage 1)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Stage 1"
+      ],
+      "cardTypes": [
+        "Water"
+      ],
+      "cardNumber": "70",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-71",
+      "cardName": "EXAMPLE2 (Shiny Vault Stage 1)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Stage 1"
+      ],
+      "cardTypes": [
+        "Water"
+      ],
+      "cardNumber": "71",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-72",
+      "cardName": "EXAMPLE3 (Shiny Vault Stage 1)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "Stage 1"
+      ],
+      "cardTypes": [
+        "Water"
+      ],
+      "cardNumber": "72",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-73",
+      "cardName": "EXAMPLE (Shiny Vault V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "V"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "73",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-74",
+      "cardName": "EXAMPLE2 (Shiny Vault V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "V"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "74",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-75",
+      "cardName": "EXAMPLE3 (Shiny Vault V)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "V"
+      ],
+      "cardTypes": [
+        "Fire"
+      ],
+      "cardNumber": "75",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-76",
+      "cardName": "EXAMPLE (Shiny Vault VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Psychic"
+      ],
+      "cardNumber": "76",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-77",
+      "cardName": "EXAMPLE2 (Shiny Vault VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Psychic"
+      ],
+      "cardNumber": "77",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE2.png"
+      }
+    }
+  },
+  {
+    "type": [
+      "VerifiableCredential",
+      "CardCredential"
+    ],
+    "credentialSubject": {
+      "type": [
+        "BrutalityCard",
+        "CollectibleCard"
+      ],
+      "cardId": "custom-78",
+      "cardName": "EXAMPLE3 (Shiny Vault VMAX)",
+      "cardSet": "brutality",
+      "cardSupertype": "Pok\u00e9mon",
+      "cardSubtypes": [
+        "VMAX"
+      ],
+      "cardTypes": [
+        "Psychic"
+      ],
+      "cardNumber": "78",
+      "cardRarity": "Shiny Rare",
+      "cardImages": {
+        "large": "/img/cards/EXAMPLE3.png"
+      }
+    }
+  }
+]

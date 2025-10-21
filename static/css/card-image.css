@@ -1,0 +1,31 @@
+/* Card image rendering with CSS background-image */
+
+.card__front {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.card__image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: var(--card-image);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 5% / 3.5%;
+    z-index: 1;
+}
+
+/* Ensure shine and glare are above the image */
+.card__shine {
+    z-index: 2;
+}
+
+.card__glare {
+    z-index: 3;
+}
+
